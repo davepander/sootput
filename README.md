@@ -13,7 +13,7 @@ Infrastructure and Durable Goods
 <li>World: 
 The enviornment outside of the home
 
-![](img/SootPut App v.1.png)
+![High-Level](https://github.com/davepander/sootput/blob/main/img/SootPut%20App%20v.1.png)
 
 As data is recorded by users, the inputs are processed by the SootPut backend algorithms to categorize and correlate each action with 
 a Carbon impact score. Over time, users will be able to see their own progression relative to themselves and to regional and national averages.
