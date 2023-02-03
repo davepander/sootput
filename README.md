@@ -28,12 +28,11 @@ As more data is captured, the users scores adjust relative to their personal bas
 Datasets that relate to calculating the carbon impact of actions 
 will be both on and off chain. </p>
 
-<p><B>Tableland</b> will be used for:</p>
-<br>
+<p><B>Tableland</b> will be used for Public data:</p>
 <li>Computed values and scores across time for users.</li>
 <li>Data Sources and their status, accuracy, validation histories</li>
 
-
+<p>For Private data:</p>
 <p>We are evaluating
 <b>Ocean Protocol Compute-to-Data</b>  for 
 User data relating to commercial purchases, any telemetric data from
