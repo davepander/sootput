@@ -41,7 +41,7 @@ other PII will be encrypted and only available to the approved algorithms
 </p>
 
 As our algorithm code is based in python, we are also evaluating 
-https://www.apeworx.io for interfacing with on and off chain algorithms.
+https://www.apeworx.io for interfacing with on and off chain algorithms. This allows us to work with Filecoin offerings for on-chain data stores.
 
 For our front end interface, we are exploring https://www.bildr.com and their potential 
 support for the tableland libraries.
