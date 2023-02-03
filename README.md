@@ -51,6 +51,6 @@ converting to Carbon Credits, we still plan to incentivize certain actions (that
 These tokens will be purchased through Toucan and ideally correlated with actions in the SootPut platform.</p>
 <br>
 We are in discussions with organizations to create more verifiable actions that can be rewarded with Tokenize Carbon Credits.
-One such example is tracking participation in trash-pick-up competitions. There are already prizes offered to winners in these instances, and SootPut plans to issue all participants
+One such example is tracking participation in trash-pick-up competitions. There are already prizes offered to winning teams in these instances, and SootPut plans to issue all participants
 "credit" in their dynamic SootPut Climate NFT as well as appropriate Carbon credit token allocations.
 https://docs.toucan.earth/toucan/bridge/tco2-toucan-carbon-tokens
