@@ -46,9 +46,9 @@ https://www.apeworx.io for interfacing with on and off chain algorithms.
 For our front end interface, we are exploring https://www.bildr.com and their potential 
 support for the tableland libraries.
 <br>
-While individual Climate actions do not fall under current models for defining, registering, validating and
-converting Carbon Credits, we still plan to incentivize certain actions (that can be verified) with Carbon credit tokens.
-These tokens will be purchased through Toucan and ideally correlated with actions in the SootPut platform.
+<p>While individual Climate actions do not fall under current models for defining, registering, validating and
+converting to Carbon Credits, we still plan to incentivize certain actions (that can be verified) with Carbon credit tokens.
+These tokens will be purchased through Toucan and ideally correlated with actions in the SootPut platform.</p>
 <br>
 We are in discussions with organizations to create more verifiable actions that can be rewarded with Tokenize Carbon Credits.
 One such example is tracking participation in trash-pick-up competitions. There are already prizes offered to winners in these instances, and SootPut plans to issue all participants
